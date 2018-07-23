@@ -3,7 +3,7 @@ red
 blue
 orange
 kanika learning
-pull req check
+pull req chek
 green
 yellow
 maroon
