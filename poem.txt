@@ -8,3 +8,4 @@ green
 yellow
 maroon
 { white and pink }
+recyle
